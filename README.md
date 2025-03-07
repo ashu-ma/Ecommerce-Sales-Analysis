@@ -31,7 +31,7 @@ This project analyzes e-commerce sales data to identify trends, customer behavio
 ![Dashboard Preview](Images/dashboard_preview.png)  
 
 ## 📥 Download Full Dataset
-🔗 **[Full Dataset (Google Drive)]([https://drive.google.com/file/d/1oDYTPvsjrYbC87OjbrkFaS-m2hfkeUrM/view?usp=sharing])**  
+🔗 **[Full Dataset (Google Drive)](https://drive.google.com/file/d/1oDYTPvsjrYbC87OjbrkFaS-m2hfkeUrM/view?usp=sharing)**  
 
 ## 🚀 How to Run This Project  
 1. Clone this repository:  
