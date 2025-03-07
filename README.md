@@ -28,7 +28,7 @@ This project analyzes e-commerce sales data to identify trends, customer behavio
 📌 **Sales trend:** Peak sales in December, lowest in July  
 
 ## 📷 Power BI Dashboard  
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/633fb1ce-dfc7-4a3f-a882-25fcf7792c07)
+![Dashboard Preview]([image](https://github.com/user-attachments/assets/633fb1ce-dfc7-4a3f-a882-25fcf7792c07)
 )  
 
 ## 📥 Download Full Dataset
