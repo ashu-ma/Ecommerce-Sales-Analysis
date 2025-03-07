@@ -23,13 +23,8 @@ This project analyzes e-commerce sales data to identify trends, customer behavio
 - **Power BI** (Data Visualization & Dashboard)  
 
 ## 📊 Key Insights  
-📌 **Top-selling product:** XYZ Product (50,000+ units sold)  
-📌 **Highest revenue region:** North America ($1.2M)  
-📌 **Sales trend:** Peak sales in December, lowest in July  
-
-## 📷 Power BI Dashboard  
-![Dashboard Preview]([image](https://github.com/user-attachments/assets/633fb1ce-dfc7-4a3f-a882-25fcf7792c07)
-)  
+📌 **Top-selling category:** Set (7k+ units sold)  
+📌 **Highest revenue state:** Maharashtra ($2.1M)
 
 ## 📥 Download Full Dataset
 🔗 **[Full Dataset (Google Drive)](https://drive.google.com/file/d/1oDYTPvsjrYbC87OjbrkFaS-m2hfkeUrM/view?usp=sharing)**  
